@@ -1,14 +1,14 @@
-## Hi there 👋 <span style="font-size:40px">Md Momenul Islam</span>
+## Hi there 👋 __Md Momenul Islam__
 
 
-🚀 Frontend Developer | Passionate Building Scalable Web Apps
+🚀 __Frontend Developer__ | Passionate Building Scalable Web Apps
 
-I'm a Frontend Developer with a passion for crafting seamless and scalable web applications. I specialize in building high-performance, user-friendly applications using:
+I'm a __Frontend Developer__ with a passion for crafting seamless and scalable web applications. I specialize in building high-performance, user-friendly applications using:
 
 🛠️ Tech Stack & Tools
-* Frontend: React.js, Next.js, Redux, TailwindCSS, Bootstrap
-* Backend: Node.js, Express.js, MongoDB, Mongoose
-* Tools: Git, Postman, VS Code
+* __Frontend:__ React.js, Next.js, Redux, TailwindCSS, Bootstrap
+* __Backend:__ Node.js, Express.js, MongoDB, Mongoose
+* __Tools:__ Git, Postman, VS Code
 
 
 📌Github Stats       
