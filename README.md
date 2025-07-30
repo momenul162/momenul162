@@ -1,7 +1,7 @@
 ## Hi there 👋 __Md Momenul Islam__
 
 
-🚀 __Frontend Developer__ | Passionate Building Scalable Web Apps
+🚀 **Frontend Developer** | Passionate Building Scalable Web Apps
 
 I'm a __Frontend Developer__ with a passion for crafting seamless and scalable web applications. I specialize in building high-performance, user-friendly applications using:
 
