@@ -2,6 +2,7 @@
 
 
 🚀 Frontend Developer | Passionate Building Scalable Web Apps
+
 I'm a Frontend Developer with a passion for crafting seamless and scalable web applications. I specialize in building high-performance, user-friendly applications using:
 
 🛠️ Tech Stack & Tools
