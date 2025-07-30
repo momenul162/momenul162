@@ -11,3 +11,4 @@ I'm a Frontend Developer with a passion for crafting seamless and scalable web a
 * Tools: Git, Postman, VS Code
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
