@@ -6,7 +6,7 @@
 I'm a __Frontend Developer__ with a passion for crafting seamless and scalable web applications. I specialize in building high-performance, user-friendly applications using:
 
 🛠️ Tech Stack & Tools
-* __Frontend:__ React.js, Next.js, Redux, TailwindCSS, Bootstrap
+* __Frontend:__ React.js, Next.js, Redux, Material UI, TailwindCSS, Bootstrap
 * __Backend:__ Node.js, Express.js, MongoDB, Mongoose
 * __Tools:__ Git, Postman, VS Code
 
