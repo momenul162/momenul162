@@ -8,7 +8,7 @@ I'm a __Software Developer__ with a passion for crafting seamless and scalable w
 🛠️ Tech Stack & Tools
 * __Frontend:__ React.js, Next.js, Redux, Material UI, TailwindCSS, Bootstrap
 * __Backend:__ Node.js, Express.js, MongoDB, Mongoose
-* __Tools:__ Git, Postman, VS Code
+* __Tools:__ Git, Redis, Jest, JWT, Postman, VS Code
 
 
 📌Github Stats       
